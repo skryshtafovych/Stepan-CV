@@ -145,3 +145,10 @@ Worked with PostgreSQL database, wrote computer codes in Perl, automated company
 
 Education
 California State University, Sacramento (expected graduation - TBD)
+
+Awards/Achievements
+Ranked in Top 2% of StackOverflow Developers for 2 month in a Row.
+2 Years in row Won Top Mobile Government App
+4.2 Star Rating with over 1 Million Downloads
+
+
